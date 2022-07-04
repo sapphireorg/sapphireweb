@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Sapphire',
-  tagline: 'Specialized discord bot',
+  tagline: 'Specialized discord bot.',
   url: 'https://sapphiredev.tk/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
